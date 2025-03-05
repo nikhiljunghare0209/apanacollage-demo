@@ -1,4 +1,4 @@
 # apanacollage-demo
 This is my first git repository
 <br>
-author-nikhil junghare
+author-nikhil sambhaji junghare
